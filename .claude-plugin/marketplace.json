@@ -1,0 +1,20 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "productivity",
+  "description": "General workflow skills (grill-me, handoff, teach, to-questionnaire, wait-what, writing-for-agents) from mattpocock/skills",
+  "owner": {
+    "name": "Ian Lawrence",
+    "email": "ian.lawrence@pattern.com"
+  },
+  "plugins": [
+    {
+      "name": "productivity",
+      "description": "General workflow tools, not code-specific: relentless-interview planning, conversation handoff, multi-session teaching, turning hard decisions into questionnaires, and plain-English re-explanation.",
+      "category": "productivity",
+      "source": ".",
+      "author": {
+        "name": "Matt Pocock"
+      }
+    }
+  ]
+}
