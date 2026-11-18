@@ -1,0 +1,12 @@
+{
+  "name": "productivity",
+  "version": "1.0.0",
+  "description": "General workflow tools, not code-specific: relentless-interview planning (grill-me/grilling), conversation handoff, multi-session teaching, turning hard decisions into questionnaires, and plain-English re-explanation.",
+  "author": {
+    "name": "Matt Pocock"
+  },
+  "homepage": "https://github.com/ian-lawrence423/productivity",
+  "repository": "https://github.com/ian-lawrence423/productivity",
+  "license": "MIT",
+  "keywords": ["productivity", "skills", "grilling", "handoff", "teach"]
+}
